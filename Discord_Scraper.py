@@ -5,8 +5,8 @@ import os
 
 
 header = { 'authorization' : '...'}
-pw = '...'
 database = '...'
+pw = '...'
 
 #------------------API INTERACTIONS-----------------------
 def get_channelids(connection):
