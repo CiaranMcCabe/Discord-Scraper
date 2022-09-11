@@ -3,4 +3,5 @@ Take Messages from user specified discord channels and store the messages in an 
 
 ## Installations
 '''bash
-python -m pip install requests '''
+python -m pip install requests
+'''
