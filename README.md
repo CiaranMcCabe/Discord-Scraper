@@ -6,7 +6,7 @@ The program takes inputted channel IDs from a `Channel_ids.txt`. Each time a new
 
 ## Prerequisites
 The architecture of the MySQL database is as follows.
-![sqldatabase](sqldesign.jpg)
+![sqldatabase](sqldesign.JPG)
 ## Requirements
 Two library installations are required for this project. 
 The first being the `requests` library and the second being `mysql.connector`.
