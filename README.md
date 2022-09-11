@@ -1,5 +1,6 @@
 # Discord-Scraper
 Take Messages from user specified discord channels and store the messages in an SQL server.
+This program is to help traack information from mutiple discord servers/guilds by scraping messages from user specified channels inside different servers. The user must use there unique user authorization code which is sent with every API request. Each message, channel and server is stored in a SQL database.
 
 ## Usage
 The program takes inputted channel IDs from a `Channel_ids.txt`. Each time a new channel ID is placed in the `Channel_ids.txt`, the last 5 messages from that channel are requested. For channels already in the database on messages after the last save are requested.
