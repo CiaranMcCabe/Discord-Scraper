@@ -19,11 +19,3 @@ pip install requests
 pip install mysql-connector-python
 ```
 
-## Declarations
-```python
-header = {'authorization' : '...'} #User account token for sending requests
-database = '...'                   #Database name
-pw = '...'                         #Database password
-```
-
-## Functions
